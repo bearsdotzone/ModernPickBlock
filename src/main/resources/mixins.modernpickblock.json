@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "minVersion": "0.8.5-GTNH",
+  "package": "zone.bears.modernpickblock.mixins",
+  "refmap": "mixins.modernpickblock.refmap.json",
+  "target": "@env(DEFAULT)",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [],
+  "client": ["PickBlockMixin"],
+  "server": []
+}
